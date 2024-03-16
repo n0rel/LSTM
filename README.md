@@ -1,2 +1,3 @@
 # LSTM
-LSTM Network using CUDA
+
+Rewrite of my python lstm model in CPP
